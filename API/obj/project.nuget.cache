@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XYlxlzQzzXfzgzgNB7ICaV+zMaVJyz3MJ0ECpSMaRl5AyTiFKLI3YqSpJoc98p6Wcc2gIVYyjB2UbwSm+9Fcrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zadro\\source\\repos\\Cursova\\API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zadro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zadro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zadro\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\zadro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\zadro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\zadro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
