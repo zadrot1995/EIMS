@@ -8,7 +8,7 @@ namespace Domain.Models
 {
     public class Subject
     {
-        public Guid Guid { get; set; }
+        public Guid Id { get; set; }
         public string Name { get; set; }
         public Teacher Lecturer { get; set; }
         public Teacher Practitioner { get; set; }

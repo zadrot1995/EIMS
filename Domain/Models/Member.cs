@@ -9,7 +9,7 @@ namespace Domain.Models
 {
     public abstract class Member
     {
-        public Guid Guid { get; set; }
+        public Guid Id { get; set; }
         public string FirstName { get; set; }
         public string SecondName { get; set; }
         public UserType UserType { get; set; }

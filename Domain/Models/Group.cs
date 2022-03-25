@@ -8,6 +8,7 @@ namespace Domain.Models
 {
     public class Group
     {
+        public Guid Id { get; set; }
         public List<Student> Students { get; set; }
         public Teacher Curator { get; set; }
     }
